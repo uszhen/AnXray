@@ -1,23 +1,10 @@
-<div align="center">
+# 服务器代理服务
 
-# ![AnXray](https://github.com/XTLS/AnXray/raw/img/screenshots/0.png)
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
 
-Another Xray for Android.
-
-[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![Releases](https://img.shields.io/github/downloads/XTLS/AnXray/total.svg)](https://github.com/XTLS/AnXray/releases)
-[![Language: Kotlin](https://img.shields.io/github/languages/top/XTLS/AnXray.svg)](https://github.com/XTLS/AnXray/search?l=kotlin)
-[![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-</div>
-
-## SCREENSHOTS
-
-The X-style logo, slogan, and exclusive bright & dark themes designed by [RPRX](https://github.com/rprx), the Chief Visual Designer at AnXray.
-
-<img src="https://github.com/XTLS/AnXray/raw/img/screenshots/1.jpg" width="270"> <img src="https://github.com/XTLS/AnXray/raw/img/screenshots/2.jpg" width="270"> <img src="https://github.com/XTLS/AnXray/raw/img/screenshots/3.jpg" width="270">
-
-<img src="https://github.com/XTLS/AnXray/raw/img/screenshots/4.jpg" width="270"> <img src="https://github.com/XTLS/AnXray/raw/img/screenshots/5.jpg" width="270"> <img src="https://github.com/XTLS/AnXray/raw/img/screenshots/6.jpg" width="270">
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
 ## Documents
 
